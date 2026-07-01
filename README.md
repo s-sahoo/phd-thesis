@@ -1,4 +1,4 @@
-# [Ph.D. Thesis] Foundations of Diffusion Language Models
+# [Ph.D. Thesis] [Foundations of Diffusion Language Models](Foundations_of_Diffusion_Langu.pdf)
 By [Subham Sekhar Sahoo](https://s-sahoo.github.io/), Cornell Tech
 
 The slides for my Thesis talk can be found [here](https://docs.google.com/presentation/d/17IYwWxuRYizpeZenmV-fUxOCpple7zj3lDhwvW3_4E0/edit?slide=id.p#slide=id.p).
