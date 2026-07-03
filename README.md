@@ -5,6 +5,7 @@ The slides for my Thesis talk can be found [here](https://docs.google.com/presen
 
 ```
 @phdthesis{
+sahoothesis,
 author={Sahoo,Subham S.},
 year={2026},
 title={Foundations of Diffusion Language Models},
@@ -16,5 +17,6 @@ keywords={Diffusion language models; Diffusion models; Discrete diffusion; Autor
 isbn={9798252441955},
 language={English},
 url={https://www.proquest.com/dissertations-theses/foundations-diffusion-language-models/docview/3355013570/se-2},
+school={Cornell University}
 }
 ```
